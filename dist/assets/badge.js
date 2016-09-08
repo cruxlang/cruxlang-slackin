@@ -46,7 +46,7 @@
     // once we have the knowledge of the actual
     // numbers of users, based on a user count
     // of 3 digits by 3 digits
-    iframe.style.width = (LARGE ? 190 : 140) + 'px'
+    iframe.style.width = (LARGE ? 190 : 55) + 'px'
 
     // height depends on target size
     iframe.style.height = (LARGE ? 30 : 20) + 'px'
